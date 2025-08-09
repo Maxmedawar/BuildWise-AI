@@ -15,7 +15,7 @@ export default function Landing() {
         <div className="rounded-2xl bg-white p-6 text-blue-900 shadow">Vendor outreach</div>
       </section>
       <section className="rounded-2xl bg-white p-6 text-blue-900 shadow">
-        <h2 className="text-2xl font-bold">Just $20/mo after a free trial</h2>
+        <h2 className="text-2xl font-bold">Just $79/mo or $790/yr</h2>
         <Link href="/pricing" className="mt-2 inline-block rounded-xl bg-blue-900 px-4 py-2 text-white">
           See pricing
         </Link>
